@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>andToxa.StyleCop</id>
+    <version>1.0.2</version>
+    <authors>andToxa</authors>
+    <description>Stylecop rules</description>
+    <repository type="git" url="https://github.com/andToxa/packages.nuget.git" />
+    <dependencies>
+      <dependency id="StyleCop.Analyzers" version="1.1.118" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="stylecop.json" target="" />
+    <file src="stylecop.ruleset" target="" />
+    <file src="andToxa.StyleCop.props" target="build" />
+  </files>
+</package>
