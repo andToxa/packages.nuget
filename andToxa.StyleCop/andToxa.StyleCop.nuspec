@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>andToxa.StyleCop</id>
-    <version>1.0.6</version>
+    <version>1.0.7</version>
     <authors>andToxa</authors>
     <description>Stylecop rules</description>
     <developmentDependency>true</developmentDependency>
